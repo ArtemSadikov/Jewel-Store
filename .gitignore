@@ -1,5 +1,6 @@
 node_modules
-src
-.editorconfig
-gulpfile.js
+# src
+# .editorconfig
+# gulpfile.js
 package-lock.json
+Jewel-store
